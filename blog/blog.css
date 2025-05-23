@@ -1,0 +1,22 @@
+ @import url("https://fonts.googleapis.com/css2?family=family=Mooli&display=swap");
+
+header, h1 {
+    color: AF1B3F;
+    font-style: Lora, Impact, serif;
+    font-size: large;
+}
+
+header, main {
+    border-color: EFC69B;
+    border-top-width: 4px;
+}
+
+main, footer {
+    color: 473144;
+    font-style: Helvetica, Arial, sans-serif;
+}
+
+main {
+    column-count: 3;
+    column-width: 20%, 60%, 20%;
+}
